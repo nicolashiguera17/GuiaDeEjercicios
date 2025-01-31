@@ -15,3 +15,13 @@ Pero esos no son todos sus beneficios, ya que además, desgasta menos las articu
 Nadar ayuda a mantener flexibles las articulaciones, especialmente el cuello, los hombros y la pelvis. Por otro lado, se consume hasta un 10% más de oxígeno y el corazón bombea hasta un 18% más de sangre, lo que implica una mejor circulación sanguínea y un aumento en la resistencia cardiorrespiratoria.
 
 A esta lista se deben agregar los beneficios para la salud mental. Al concentrarse en la respiración, el cuerpo se relaja, reduciendo la sensación de estrés. Paralelamente, el cuerpo libera endorfinas, hormona que reduce los niveles de ansiedad y mejora el estado de ánimo, aumentando la sensación de placer.
+
+## Instrucciones
+
+- Toma decisiones si es necesario.
+- No empujes a las demás personas.
+- Controla la ansiedad.
+- Descansa siempre que sea necesario.
+- Mantente bien hidratado.
+- No consumas alimentos dentro del agua.
+- Debes estar atento al clima.
