@@ -1,9 +1,11 @@
 # Ejercicio de yoga
 
 ## Descripción
+
 El yoga es una práctica que conecta el cuerpo, la respiración y la mente. Esta práctica utiliza posturas físicas, ejercicios de respiración y meditación para mejorar la salud general
 
 ## Beneficios
+
 - Reducir su presión arterial y su frecuencia cardíaca.
 - Ayudarle a relajarse.
 - Mejorar su confianza en usted mismo.
@@ -14,6 +16,7 @@ El yoga es una práctica que conecta el cuerpo, la respiración y la mente. Esta
 - Ayudar a la digestión.
 
 ## Instrucciones
+
 Paso 1: Preparación
 Paso 2: Respiración Consciente (Pranayama)
 Paso 3: Calentamiento
@@ -21,8 +24,8 @@ Paso 4: Asanas (Posturas)
 Paso 5: Relajación y Meditación
 Paso 6: Desayuno Saludable
 
-
 ## Consejos
+
 - Ten paciencia y observa. ...
 - La respiración es lo más importante. ...
 - Ante todo comodidad, no hay atuendo ideal. ...
