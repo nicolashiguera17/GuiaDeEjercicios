@@ -15,3 +15,9 @@ Los ejercicios de fuerza son entrenamientos musculares en los que se utilizan di
 4. Busca el equilibrio.
 5. Incluye el fortalecimiento muscular en tu rutina de ejercicios. 
 6. Descansa.
+
+## Consejos
+1. Escoge ejercicios simples, pero siempre que sean multiarticulares, como el press de banca, el peso muerto, las sentadillas con barra, el press militar o las dominadas.
+2. "Podemos terminar con ejercicios monoarticulares, para una mejora de las articulaciones que pudieran ejercer un factor limitante en los ejercicios multiarticulares". Ejemplos de ejercicios monoarticulares: extensiones de cuádriceps, press de pecho en máquina...
+3. Sesiones de 7 u 8 ejercicios máximo, 3 series por grupo muscular y un máximo de 15 repeticiones.
+4. Jornadas de entrenamiento mínimo 45 minutos y máximo una hora. 2 minutos de descanso entres serie y serie.
