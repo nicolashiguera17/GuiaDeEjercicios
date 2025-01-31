@@ -16,3 +16,9 @@ El ciclismo es un deporte simétrico que se practica con un elemento mecánico (
 8. Ayuda a controlar tu peso
 9. Prolongas tus expectativa de vida
 10. Beneficios sociales, económicos y medioambientales
+
+## Instrucciones
+
+1. Mantén una distancia adecuada con la bicicleta que te antecede, así tendrás tiempo para frenar en caso de que el otro ciclista frene de manera brusca. ...
+2. Al entrar a un camino, mira hacia ambos lados para asegurarte de que no venga ningún vehículo. ...
+3. Nunca saques las dos manos del manubrio.
