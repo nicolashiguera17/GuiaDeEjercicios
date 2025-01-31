@@ -14,3 +14,8 @@ CrossFit es una técnica de entrenamiento que conecta movimientos de diferentes 
 - Aporta concentración y motivación extra. ...
 - Reduce el nivel de estrés. ...
 - Aumenta las relaciones sociales.
+
+## Instrucciones
+
+¿Cómo empezar en crossfit?
+Lo primero que debes saber para comenzar es que no hay un entrenamiento de crossfit para principiantes. Pero no te preocupes porque esto no es una mala noticia. Eso no significa que tú no puedas iniciarte en esta modalidad deportiva. Todo el mundo hará los mismos ejercicios de crossfit, pero cada cual puede adaptarlos a su condición física. Por tanto, para adaptarte poco a poco, empieza por poco peso en los ejercicios de fuerza, utiliza gomas que ofrezcan menor resistencia y ve incrementando la dificultad a medida que vayas avanzando. El crossfit es para todo el mundo. Al principio te costará, pero, cuando progreses, te irás encontrando cada vez mejor porque, en pocos meses, los resultados de estos ejercicios son notables. ¿Cómo iniciarse en el crossfit sin sufrir? Eso es casi imposible, no te vamos a engañar. Las agujetas te acompañarán al principio de manera inevitable, pero con la motivación adecuada podrás disfrutar de unos entrenamientos muy divertidos. ¡El crossfit engancha!
