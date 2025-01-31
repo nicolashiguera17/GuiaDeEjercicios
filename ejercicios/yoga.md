@@ -12,3 +12,11 @@ El yoga es una práctica que conecta el cuerpo, la respiración y la mente. Esta
 - Mejorar su concentración.
 - Ayudarle a dormir mejor.
 - Ayudar a la digestión.
+
+## Instrucciones
+Paso 1: Preparación
+Paso 2: Respiración Consciente (Pranayama)
+Paso 3: Calentamiento
+Paso 4: Asanas (Posturas)
+Paso 5: Relajación y Meditación
+Paso 6: Desayuno Saludable
